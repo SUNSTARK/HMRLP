@@ -3,7 +3,7 @@ These are codes for the routineness model and its corresponding data of the pape
 
 ### Data
 In the "data" folder:
-* dataset.tar.gz — Data for the routineness model, including 151 .parquet files, each of them containing 1,000 anonymized users' hourly behavioral observations.
+* routineness_data.zip — Data for the routineness model, including 151 .parquet files, each of them containing 1,000 anonymized users' hourly behavioral observations.
 * subset_train.csv — A subset of the mobility data for training on prediction models, containing 10,000 anonymized users.
 * subset_test.csv — A subset of the mobility data for testing, containing the same 10,000 anonymized users.
 ### Code
