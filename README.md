@@ -1,5 +1,5 @@
 # HMRLP
-These are codes for the routineness model and its corresponding data of the paper "Unraveling Human Mobility Routineness: Implications for Next Location Prediction", plus a subset of the anonymized and processed data for the prediction models containing 10.000 users.
+These are codes for the routineness model and its corresponding data of the paper "Human-AI Interaction: Human Behavior Routineness Shapes AI Performance", plus a subset of the anonymized and processed data for the prediction models containing 10,000 users.
 
 ### Data
 In the "data" folder:
